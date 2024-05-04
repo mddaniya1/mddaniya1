@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mddaniya1&label=Profile%20views&color=0e75b6&style=flat" alt="mddaniya1" /> </p>
 
-- 🌱 I’m currently learning https://www.piaic.org/
+- 🌱 I’m currently learning PIAIC (Certified Cloud Applied Generative AI Engineer (GenEng))
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/muhammad-daniyal-4b0b3629b/](https://www.linkedin.com/in/md-daniyal-4b0b3629b/)
 
