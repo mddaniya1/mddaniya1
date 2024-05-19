@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/ali0siddique" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ali0siddique" height="30" width="40" /></a>
+<a href="https://twitter.com/MuhammadDa56738" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/X.twitter.svg" alt="MuhammadDa56738" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/md-daniyal-4b0b3629b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-daniyal-4b0b3629b" height="30" width="40" /></a>
 <a href="https://fb.com/ali siddique" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ali siddique" height="30" width="40" /></a>
 <a href="https://instagram.com/alisiddique.official" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alisiddique.official" height="30" width="40" /></a>
