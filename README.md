@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Md,Daniyal</h1>
+<h1 align="center">Hi 👋, I'm Muhammad,Daniyal</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mddaniya1&label=Profile%20views&color=0e75b6&style=flat" alt="mddaniya1" /> </p>
@@ -13,11 +13,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/MuhammadDa56738" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Muhammad Daniyal" height="30" width="40" /></a>
+<a href="https://X.twitter.com/MuhammadDa56738" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Muhammad Daniyal" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/muhammad-daniyal-4b0b3629b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-daniyal-4b0b3629b" height="30" width="40" /></a>
 <a href="https://fb.com/ali siddique" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ali siddique" height="30" width="40" /></a>
-<a href="https://instagram.com/alisiddique.official" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alisiddique.official" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/codewithdaniyal-tr9ls" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="codewithdaniyal-tr9ls" height="30" width="40" /></a>
+<a href="https://instagram.com/muhammaddanial744" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="muhammaddaniyal744" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
