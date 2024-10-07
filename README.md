@@ -17,6 +17,7 @@
 <a href="https://linkedin.com/in/muhammad-daniyal-4b0b3629b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-daniyal-4b0b3629b" height="30" width="40" /></a>
 <a href="https://fb.com/ali siddique" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ali siddique" height="30" width="40" /></a>
 <a href="https://instagram.com/muhammaddanial744" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="muhammaddaniyal744" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/mdaniya1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mdaniya1" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
