@@ -18,7 +18,7 @@
 <a href="https://fb.com/ali siddique" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ali siddique" height="30" width="40" /></a>
 <a href="https://instagram.com/muhammaddaniyal744" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="muhammaddaniyal744" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/mdaniya1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mdaniya1" height="30" width="40" /></a>
-<a href="https://medium.com/https://medium.com/@mddaniyal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@mddaniyal" height="30" width="40" /></a>
+<a href="https://medium.com/https://medium.com/mddaniyal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/mddaniyal" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
