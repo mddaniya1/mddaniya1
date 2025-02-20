@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mddaniya1&label=Profile%20views&color=0e75b6&style=flat" alt="mddaniya1" /> </p>
 
-- 🌱 I’m currently learning PIAIC (Certified Cloud Applied Generative AI Engineer (GenEng))
+- 🌱 I’m currently learning PIAIC ( Agentic AI + CrewAI + LanGgraph + AutoGen )
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/muhammad-daniyal-4b0b3629b/](https://www.linkedin.com/in/md-daniyal-4b0b3629b/)
+- 👨‍💻 All of my projects are available at (https://www.linkedin.com/in/md-daniyal-4b0b3629b/)
 
 - 💬 Ask me about **Passionate about the evolving landscape of the metaverse and web 3.0 technologies 🚀 Actively learning and exploring the intersection of Blockchain, decentralized system, and virtual reality. 🔍 Seeking opportunities to contribute and collaborate with innovative minds in the metaverse space.**
 
-- 📫 How to reach me **alihussain42234223@gmail.com**
+- 📫 How to reach me **muhammaddaniyal.dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
