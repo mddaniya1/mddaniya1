@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mddaniya1&label=Profile%20views&color=0e75b6&style=flat" alt="mddaniya1" /> </p>
 
-- 🌱 I’m currently learning ( Agentic AI + CrewAI + LanGgraph + AutoGen )
+- 🌱 I’m currently learning ( OpenAI AI Agent SDK + CrewAI + LanGgraph + AutoGen )
 
 - 👨‍💻 All of my projects are available at (https://www.linkedin.com/in/md-daniyal-4b0b3629b/)
 
